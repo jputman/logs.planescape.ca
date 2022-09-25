@@ -1,0 +1,23 @@
+.bi {
+  vertical-align: -.125em;
+  fill: currentColor;
+}
+.align-center{
+  text-align:center;
+}
+.wizards_copy{
+  vertical-align: bottom;
+}
+.not-logged-in{
+  background-image: url("/assets/DnD_MM_Art.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.align-center{
+  text-align: center;
+}
+.site-title{
+  color: #ccc;
+  font-weight: bold;
+  font-size: 40px;
+}

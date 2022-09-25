@@ -2,10 +2,11 @@
 
 namespace App\Controllers;
 
-class Home extends BaseController
+class Home extends CustomBase
 {
     public function index()
     {
-        return view('welcome_message');
+        
+        return view('Home/index');
     }
 }
